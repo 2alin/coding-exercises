@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/2alin/coding-exercises/issues"
   },
-  "homepage": "https://github.com/2alin/coding-exercises#readme"
+  "homepage": "https://github.com/2alin/coding-exercises#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
 }
